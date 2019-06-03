@@ -1,2 +1,2 @@
-# Jekyll-Template
+# Jekyll Template
 Jekyll Template
